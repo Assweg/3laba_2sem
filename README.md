@@ -37,4 +37,14 @@ c++ -std=c++17 3zad/3.cpp -o cooling
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+
+## Материалы из локальной папки
+
+Исходники и документы этой работы собраны в этом репозитории.
+
+[1zad](1zad/) · [2zad](2zad/) · [3zad](3zad/)
+
+### Отчёты и документы
+
+- [Отчет Бутаков НМ 3 лаба.docx](%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9D%D0%9C%203%20%D0%BB%D0%B0%D0%B1%D0%B0.docx)
